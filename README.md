@@ -2,7 +2,7 @@
 **Digital craftsman(developer/Editor/Pentester/Ethical Hacker)**
 
 
-i'm a full stack developer building my version of the digital world  from x axis to z axis one step at a time, all coding projects are built from ground up from planning designing all the way and them executing the ideation 
+i'm a developer building my version of the digital world  from x axis to z axis one step at a time, all coding projects are built from ground up from planning designing all the way and them executing the ideation 
 
 
 
