@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hi, I'm Aniket Rai, a passionate DevOps Engineer and Backend Developer with a love for cloud computing, automation, cybersecurity, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
+Hi, I'm Aniket Rai, a passionate **Digital Craftsman (Developer/Editor/Pentester/Ethical Hacker)**. I'm a full stack developer building my version of the digital world from x axis to z axis one step at a time. All coding projects are built from ground up from planning, designing all the way, and then executing the ideation.
 
 ---
 
@@ -12,9 +12,9 @@ Hi, I'm Aniket Rai, a passionate DevOps Engineer and Backend Developer with a lo
 
 ## 🛠️ Tools & Technologies:
 
-| Linux | Kubernetes | Docker | Git | AWS | Python | JavaScript | Java | HTML5 | CSS3 | Terraform |
-|-------|-----------|--------|-----|-----|--------|------------|------|-------|------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> |
+| Java | TypeScript | Angular | Git | Linux | HTML5 | CSS3 | JavaScript | React | Node.js | Python | C++ |
+|------|------------|---------|-----|-------|-------|------|------------|-------|---------|--------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/> |
 
 ---
 
@@ -28,7 +28,7 @@ Hi, I'm Aniket Rai, a passionate DevOps Engineer and Backend Developer with a lo
 
 ## 🚀 Featured Projects
 
-### 🎮 [PROACTIVE-DETECTION-OF-UNAUTHORIZED-SYSTEM-MODIFICATIONS-USING-INTEGRITY-CHECKING](https://github.com/Aniket-Rai-afk/PROACTIVE-DETECTION-OF-UNAUTHORIZED-SYSTEM-MODIFICATIONS-USING-INTEGRITY-CHECKING)
+### 🔒 [PROACTIVE-DETECTION-OF-UNAUTHORIZED-SYSTEM-MODIFICATIONS-USING-INTEGRITY-CHECKING](https://github.com/Aniket-Rai-afk/PROACTIVE-DETECTION-OF-UNAUTHORIZED-SYSTEM-MODIFICATIONS-USING-INTEGRITY-CHECKING)
 
 A cybersecurity project focused on detecting unauthorized system modifications using integrity checking mechanisms.
 
@@ -40,22 +40,22 @@ A cybersecurity project focused on detecting unauthorized system modifications u
 
 ### 🎪 [VTop Extension](https://github.com/Aniket-Rai-afk/vtop-extension)
 
-A browser extension for enhancing the VIT student portal experience.
+A browser extension for registering multiple events of a same club at VIT.
 
 - **Technologies**: JavaScript, Chrome Extension API
 - **Features**:
-  - Enhanced UI/UX for student portal
   - Event registration automation
-  - Quick access to academic resources
+  - Enhanced UI/UX for student portal
+  - Quick access to club events
 
-### 🔒 Security & DevOps Projects
+### 💻 Additional Projects
 
-Currently working on various DevOps automation projects, Kubernetes deployments, and cybersecurity research focusing on:
+Currently working on various full-stack development and cybersecurity projects, focusing on:
 
-- Cloud infrastructure automation with AWS and Terraform
-- Container orchestration and microservices architecture
-- Security hardening and vulnerability assessment
-- CI/CD pipeline optimization
+- Web application development (Full Stack)
+- Penetration testing and ethical hacking
+- Security vulnerability assessment
+- Backend API development
 
 ---
 
@@ -67,12 +67,12 @@ Currently working on various DevOps automation projects, Kubernetes deployments,
 
 ## 💡 Current Focus
 
-- 🔭 Building expertise in DevSecOps and Cloud Security
-- 🌱 Learning Kubernetes, AWS, and infrastructure automation
-- 👯 Looking to collaborate on open-source DevOps and cybersecurity projects
-- 💬 Ask me about Linux, Backend Development, and Competitive Programming
+- 🔭 Building expertise in Full Stack Development and Cybersecurity
+- 🌱 Learning advanced penetration testing techniques
+- 👯 Looking to collaborate on open-source security and web development projects
+- 💬 Ask me about Full Stack Development, Ethical Hacking, and Competitive Programming
 - 📫 Reach me at: aniket2004@gmail.com
 
 ---
 
-*"Building the digital world, one secure deployment at a time"* 🚀
+*"Building the digital world, one secure line of code at a time"* 🚀
