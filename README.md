@@ -43,6 +43,10 @@ Currently working on securing digital infrastructure, conducting penetration tes
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/Wazuh-0C9DD7?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Sophos-0099CC?style=for-the-badge&logo=sophos&logoColor=white" />
+<img src="https://img.shields.io/badge/Palo_Alto-FA4D00?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logo=snort&logoColor=white" />
 </p>
 
