@@ -164,10 +164,9 @@ class CybersecuritySpecialist:
 ## 💬 Get In Touch
 
 - 📧 **Email**: aniket2004@gmail.com
-- 🐔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aniket-rai-afk)
-- 💼 **Portfolio**: [View my work](https://github.com/Aniket-Rai-afk/Aniket-Portfolio)
+- 👔 **LinkedIn**: https://www.linkedin.com/in/aniket-rai-afk
+- 💼 **Portfolio**: https://aniket-rai-portfolio.netlify.app
 - 💡 **Looking to collaborate on**: Security research, DevSecOps projects, CTF challenges
-
 ---
 
 <div align="center">
