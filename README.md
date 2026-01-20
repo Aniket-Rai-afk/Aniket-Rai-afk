@@ -129,35 +129,26 @@ Currently working on securing digital infrastructure, conducting penetration tes
 
 ## 🎯 Current Focus
 
-```python
-class CybersecuritySpecialist:
-    def __init__(self):
-        self.name = "Aniket Rai"
-        self.role = "Penetration Tester & DevSecOps Engineer"
-        self.current_work = [
-            "VAPT (Vulnerability Assessment & Penetration Testing)",
-            "SIEM Implementation & Security Operations",
-            "DevSecOps Pipeline Integration",
-            "Cloud Security Architecture",
-            "Ethical Hacking & Red Team Operations"
-        ]
-        self.learning = [
-            "Advanced Exploit Development",
-            "Cloud Security (AWS/Azure)",
-            "Container Security & Kubernetes Hardening",
-            "Threat Hunting & Incident Response",
-            "Zero Trust Architecture"
-        ]
-        
-    def current_goals(self):
-        return [
-            "🔭 Mastering advanced penetration testing techniques",
-            "☁️ Securing cloud-native applications",
-            "🔒 Building robust DevSecOps pipelines",
-            "🔴 Contributing to open-source security tools",
-            "🎯 Obtaining OSCP & CEH certifications"
-        ]
-```
+**🔭 Current Work:**
+- VAPT (Vulnerability Assessment & Penetration Testing)
+- SIEM Implementation & Security Operations
+- DevSecOps Pipeline Integration
+- Cloud Security Architecture
+- Ethical Hacking & Red Team Operations
+
+**📚 Learning:**
+- Advanced Exploit Development
+- Cloud Security (AWS/Azure)
+- Container Security & Kubernetes Hardening
+- Threat Hunting & Incident Response
+- Zero Trust Architecture
+
+**🎯 Goals:**
+- 🔭 Mastering advanced penetration testing techniques
+- ☁️ Securing cloud-native applications
+- 🔒 Building robust DevSecOps pipelines
+- 🔴 Contributing to open-source security tools
+- 🎯 Obtaining OSCP & CEH certifications```
 
 ---
 
