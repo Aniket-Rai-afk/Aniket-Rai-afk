@@ -2,7 +2,7 @@
 
 # 🔒 Aniket Rai | Cybersecurity Specialist
 
-### 🚪️ **Penetration Tester | Ethical Hacker | DevSecOps Engineer**
+### 🚪️ **Penetration Tester | Ethical Hacker (CEH) | DevSecOps Engineer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F707&center=true&vCenter=true&width=600&lines=VAPT+Specialist+%7C+Vulnerability+Assessment;SIEM+%26+Security+Operations;DevSecOps+%7C+Secure+CI%2FCD+Pipelines;Ethical+Hacking+%26+Red+Teaming;Building+Secure+Digital+Infrastructure" alt="Typing SVG" />
 
@@ -21,8 +21,9 @@ Currently working on securing digital infrastructure, conducting penetration tes
 ## 🌐 Connect with Me:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-rai-afk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Aniket-Rai-afk/Aniket-Portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniket2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aniket-rai-portfolio.netlify.app)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniket2004@gmail.com)
+
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://aniket-rai-portfolio.netlify.app/assets/Aniket_Rai_Resume.pdf)
 
 ---
 
