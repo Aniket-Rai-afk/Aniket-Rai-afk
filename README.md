@@ -166,4 +166,11 @@ Currently working on securing digital infrastructure, conducting penetration tes
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aniket-Rai-afk&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
+## Open Source Contributions
+
+I actively contribute to open source projects across the community:
+
+- **[Elasticsearch](https://github.com/elastic/elasticsearch)** - Officially signed contributor (CLA) with a merged PR adding ES|QL formatting functions (FMT_BYTES, FMT_BYTES_SI, FMT_DURATION, FMT_PERCENT)
+- **[Exercism](https://github.com/exercism/exercism)** - Reported and helped fix duplicate text issues in the Python track welcome modal
+
 </div>
